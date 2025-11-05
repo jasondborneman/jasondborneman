@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jasondborneman
-- 👀 I’m interested in Ruby, Ruby on Rails, Go, and stupid twitter bots
-- 🌱 I’m currently learning a dash of Go to support my solar energy array's Twitter account [@JDBSolarArray](https://twitter.com/JDBSolarArray)
+- 👀 I’m interested in Ruby, Ruby on Rails, Go, and stupid social media bots
 - 📫 Reach me using [LinkedIn](https://www.linkedin.com/in/jasondborneman/)
